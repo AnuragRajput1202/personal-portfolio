@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import photo from '../../assets/photo.png'
+import photo from '../../assets/photo.jpeg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
